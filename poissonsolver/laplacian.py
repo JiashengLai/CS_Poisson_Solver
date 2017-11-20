@@ -1,5 +1,8 @@
 import numpy as np
 
+def test_function():
+    return 'package is working'
+
 def create_laplacian_1d(n_x):
     laplacian = np.zeros(shape = (n_x, n_x), dtype=np.float64)
     for i in range(1, n_x-1): # create laplacian matrix (2nd to 2nd-to-last row)
