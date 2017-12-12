@@ -17,3 +17,5 @@ test in terminal:
 2. open python3
 3. import `poissonsolver`
 4. `poissonsolver.laplacian.test_function()`
+
+link to the overview of the project structure: https://creately.com/diagram/jb29xald2/adP7BBpEuIkYdtDMSa9rzvcWZA%3D
